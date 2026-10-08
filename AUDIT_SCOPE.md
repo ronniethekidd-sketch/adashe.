@@ -6,7 +6,7 @@ Security audit of the `adashe` Solana program prior to mainnet launch, funded vi
 ## In scope
 | Item | Detail |
 |---|---|
-| Repository | `[GITHUB URL]` at commit `[COMMIT HASH]` |
+| Repository | `https://github.com/ronniethekidd-sketch/adashe.` at commit `989357f890ddd3101a4639a3dae310d00e0fbea9` |
 | Program | `programs/adashe/src/lib.rs` (single file, ~600 LOC Rust) |
 | Framework | Anchor 0.30.1, `anchor-spl` token (classic SPL Token) |
 | Instructions | create_circle, join_circle, contribute, cover_default, release_payout, withdraw_collateral, refund_unfilled |
