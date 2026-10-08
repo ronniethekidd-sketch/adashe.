@@ -18,8 +18,8 @@
 
 **Roadmap:** Guarded beta (Dec 2026), mobile-first product and naira on/off-ramps (Q1 2027), verifiable-random payout order and reputation-based collateral (2027).
 
-**Team:** [YOUR NAME / Ronniethekidd], statistics student and founder based in Nigeria, [add other team members and relevant links].
+**Team:** Ronniethekidd, statistics student and founder based in Nigeria.
 
-**Demo / links:** [DEVNET PROGRAM ID], [DEMO VIDEO OR TWEET], [GITHUB URL]
+**Demo / links:** Github: https://github.com/ronniethekidd-sketch/adashe.
 
-**Honest status:** Pre-audit prototype. Devnet only. No mainnet funds at risk.
+**Honest status:** Pre-audit prototype. Not yet deployed. No funds at risk.
