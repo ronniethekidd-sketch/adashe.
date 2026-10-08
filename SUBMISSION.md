@@ -1,7 +1,5 @@
 # Superteam Earn submission: CertiK Audit Credits
 
-> Fill every [BRACKET] before submitting. Do not claim anything that is not true yet.
-
 **Project name:** Adashe
 
 **One-liner:** Trustless rotating savings circles (adashe / esusu / ajo) on Solana, with collateral-backed pots and no admin keys.
@@ -12,7 +10,7 @@
 
 **Why it needs an audit before mainnet:** Every circle holds real stablecoins from people with little margin for loss. The core guarantee (the pot is always fully funded and the vault is always solvent) is exactly the kind of invariant an independent audit should verify.
 
-**Codebase:** [GITHUB URL] (Anchor 0.30.1, ~600 LOC, 7 instructions, bankrun test suite)
+**Codebase:** https://github.com/ronniethekidd-sketch/adashe. (Anchor 0.30.1, ~600 LOC, 7 instructions, bankrun test suite)
 
 **Audit scope:** See `docs/AUDIT_SCOPE.md` in the repo: seven specific questions on solvency, state machine, account validation, mint risk and clock use.
 
